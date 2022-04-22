@@ -3,12 +3,10 @@
 <h3 align="center">A passionate Web Developer from French</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fatoumatasoukouna86/" target="blank"><img align="center" src="https://img.shields.io/badge/-facebook-000B49?style=flat&logo=facebook" alt="Fatoumata SOUKOUNA Facebook Page" /></a>
-  
-![Gmail](https://img.shields.io/badge/-Gmail-000B49?style=flat&logo=gmail)
-</p>
+ 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fatoumatasoukouna86/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-000B49?style=flat&logo=linkedin" alt="Fatoumata SOUKOUNA linkedin Page" /></a>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
