@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fatoumatasoukouna86/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-000B49?style=flat&logo=linkedin" alt="Fatoumata SOUKOUNA linkedin Page" /></a>
-
+<img align="center" src="https://img.shields.io/badge/-soukounafatoumata86@gmail.com-000B49?style=flat&logo=gmail" alt="Email contact" />
 
 
 <h3 align="left">Languages and Tools:</h3>
