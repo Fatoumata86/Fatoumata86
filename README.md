@@ -20,6 +20,9 @@
 ![React](https://img.shields.io/badge/-React-000B49?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-000B49?style=flat&logo=Vue.js)&nbsp;
 
+![MySQL](https://img.shields.io/badge/-MySQL-000B49?style=flat&logo=MySQL)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000B49?style=flat&logo=MongoDB)&nbsp;
+
 ![HTML](https://img.shields.io/badge/-HTML-000B49?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000B49?style=flat&logo=CSS3&logoColor=0078d7)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000B49?style=flat&logo=bootstrap)&nbsp;
