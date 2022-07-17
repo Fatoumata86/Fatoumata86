@@ -2,7 +2,7 @@
 
 <h3 align="center">A Web Developer Junior from French, looking for my first job</h3>
 
-<img align="right" alt="Women coding" width="400" src="https://media.istockphoto.com/vectors/black-woman-working-on-laptop-freelance-online-studying-remote-work-vector-id1299573732?k=20&m=1299573732&s=612x612&w=0&h=74sE9AaKbfhrTymVjJNrzfZF704c4JOYCGkjL9tlByY=">
+<img align="right" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS58VBbtk7E41W91T6fuR8-kl8dp-AuiMeiHw&usqp=CAU">
 
 <h3 align="left">Connect with me :</h3>
  
