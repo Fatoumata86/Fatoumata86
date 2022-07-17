@@ -2,6 +2,8 @@
 
 <h3 align="center">A Web Developer Junior from French, looking for my first job</h3>
 
+
+
 <img align="right" alt="Women coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS58VBbtk7E41W91T6fuR8-kl8dp-AuiMeiHw&usqp=CAU">
 
 <h3 align="left">Connect with me :</h3>
